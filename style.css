@@ -1,1 +1,28 @@
-
+p{ 
+  background-color: light blue;
+  font-family:Times New Roman;
+}
+ul{
+  font-size: 16px;
+    font-weight: bold;
+}
+ol{
+  color: pink;
+  font-family: Angsana New;
+}
+h1{
+  height: 56px;
+   backgroud-color: light pink;
+}
+header{
+  width: 30px;
+  font-size: 20px;
+}
+body{
+  color: red;
+    backgound-color: light green;
+}
+footer{
+  font-size: 12px;
+  width: 30px; 
+}
